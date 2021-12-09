@@ -1,22 +1,17 @@
-# This is a sample Python script.
-
-# Press Shift+F10 to execute it or replace it with your code.
-# Press Double Shift to search everywhere for classes, files, tool windows, actions, and settings.
-
 def addition(x, y):
-    return x+y
+    return x + y
 
 
 def subtraction(x, y):
-    return x-y
+    return x - y
 
 
 def multiplication(x, y):
-    return x*y
+    return x * y
 
 
 def division(x, y):
-    return x/y
+    return x / y
 
 
 print("Select operation.")
